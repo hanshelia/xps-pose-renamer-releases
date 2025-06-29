@@ -1,6 +1,16 @@
 # XPS Pose Renamer — Public Release
 
-This repository contains public releases of **XPS Pose Renamer**, a tool to batch rename XPS pose files.
+This repository hosts the public binary releases of **XPS Pose Renamer**, a tool to batch rename `.pose` files for XNALara/XPS.
 
-## 🔽 Downloads
+---
 
+## 🔽 Version 1.0.0
+
+👉 [Download via Gumroad](https://hanshelia.gumroad.com/l/ealdcz)
+
+- Windows 64-bit
+- No installation required
+- Includes: `.exe` and README file.
+
+
+---
